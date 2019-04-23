@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: arial;
+    margin-left: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    color: gray;
+    font-size: 2.5em;
+}
+
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,td {
+    padding: 5px;
+    text-align: center;
+}
+
+.titles {
+    text-align: center;
+    
+}
+
+#table {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+}
