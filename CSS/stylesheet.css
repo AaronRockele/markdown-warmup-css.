@@ -14,41 +14,46 @@ h1 {
 h2 {
     font-style: italic;
 }
+
 #tableH2 {
     text-align: center;
 }
 
-table,th,td {
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
-   
+
 }
 
-th,td {
+th,
+td {
     padding: 5px;
     text-align: center;
 }
+
 th {
-   background-color: lightgray;
+    background-color: lightgray;
 }
 
 .titles {
     text-align: center;
-    
+
 }
 
 #table {
     top: 50px;
     bottom: 100px;
     text-align: center;
-    
+
 }
 
 #container {
-    height:auto;
+    height: auto;
     width: 75%;
     margin-left: auto;
     margin-right: auto;
@@ -58,6 +63,3 @@ th {
     padding-right: 20px;
 
 }
-
-
-
